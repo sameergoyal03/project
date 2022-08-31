@@ -9,7 +9,7 @@ spec:
   project: default
   source:
     path: helm
-    repoURL: https://github.com/sameergoyal/devops-poc.git
+    repoURL: https://github.com/sameergoyal03/project
     targetRevision: HEAD
   destination:
     namespace: production
