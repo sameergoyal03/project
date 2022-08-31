@@ -17,7 +17,7 @@ spec:
           repository: vfarcic/devops-toolkit
           tag: latest
         ingress:
-          host: devopstoolkitseries.com
+          host: sameergoyal.com
       version: v3
   destination:
     namespace: production
